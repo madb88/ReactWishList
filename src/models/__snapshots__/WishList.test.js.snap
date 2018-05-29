@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`can add item to wishlist 1`] = `
+Object {
+  "items": Array [
+    Object {
+      "image": "",
+      "name": "Test Name",
+      "price": 28.23,
+    },
+  ],
+}
+`;
+
+exports[`can add item to wishlist 2`] = `
+Array [
+  Object {
+    "items": Array [
+      Object {
+        "image": "",
+        "name": "Test Name",
+        "price": 28.23,
+      },
+    ],
+  },
+]
+`;
